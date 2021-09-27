@@ -20,10 +20,9 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 sudo apt update
 sudo apt install code
 
-#installing document editor inkscape
-sudo add-apt-repository ppa:inkscape.dev/stable
+#installing document editor librescape
 sudo apt update
-sudo apt install inkscape
+sudo apt install libreoffice
 
 #installing pdf viewer - qpdfview
 sudo apt install qpdfview
